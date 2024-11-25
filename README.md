@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
-===========================================================================================================================================
-
-Python Backend Developer
 ------------------------
 
-I have over 3 years of experience working with big data and conducting scientific research. I am actively engaged in Python development.
+I am a Python Backend Developer with over 3 years of experience working with big data and conducting scientific research. I am actively involved in Python development.
 
 * 🌍  I'm based in Busan
 * ✉️  You can contact me at [ilshat26101993@list.ru](mailto:ilshat26101993@list.ru)
