@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Python Backend Developer with over 3 years of experience working with big data and conducting scientific research. I am actively involved in Python development.
 
-* 🌍  I'm based in Busan
+* 🌍  I'm based in Omsk
 * ✉️  You can contact me at [ilshat26101993@list.ru](mailto:ilshat26101993@list.ru)
 
 ### Skills
