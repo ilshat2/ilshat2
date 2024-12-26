@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### :handshake: Social
 <a href="https://ilshat2.github.io/" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0b/Internet_Explorer_10_icon.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0b/Internet_Explorer_10_icon.svg" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Internet_Explorer_10_icon.svg" alt="Website" width="32" height="32" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/a/a7/Font_Awesome_5_regular_globe.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/a/a7/Font_Awesome_5_regular_globe.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Font_Awesome_5_regular_globe.svg" alt="Website" width="32" height="32" />
   </picture>
 </a>
 <a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> 
