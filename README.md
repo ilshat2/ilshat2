@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
 ------------------------
 
-### :handshake: Social <div>
+<div> ### :handshake: Social 
 <a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
