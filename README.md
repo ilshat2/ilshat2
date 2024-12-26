@@ -13,11 +13,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a href="https://t.me/spasibo24" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32">
-</a> <br>
+</a>
 </div>
 
 
 <div>
+
 Python разработчик с опытом более года в разработке на Python и трёхлетним опытом работы в научных исследованиях.       
 Владею основными технологиями и инструментами для разработки, включая Django, DRF, Postman.
 Имею опыт работы с базами данных (PostgreSQL, MySQL, SQLite) и создания REST API для взаимодействия с ними. Знаком с принципами работы и настройки Linux-систем (Ubuntu, Bash), а также опыт работы с инструментами автоматизации (Docker, Git, Nginx).
