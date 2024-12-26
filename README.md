@@ -27,6 +27,7 @@ Python разработчик с опытом более года в разра�
 
 
 ### :hammer_and_wrench: Skills
+------------------------
 
 <div>
 <p align="left">
@@ -35,6 +36,7 @@ Python разработчик с опытом более года в разра�
 </div>
 
 ### :fire: GitHub Stats
+------------------------
 
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilshat2&theme=default" width="273"/>
