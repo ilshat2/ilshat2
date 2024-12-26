@@ -41,6 +41,6 @@ Python разработчик с опытом более года в разра�
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilshat2&theme=github" width="561"/>
 </div>
 
-<divid="views" align="right">
+<div id="views" align="right">
   <img src="https://komarev.com/ghpvc/?username=ilshat2"/>          
 </div>
