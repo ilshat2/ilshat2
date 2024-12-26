@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
 ------------------------
 
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://t.me/spasibo24" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"></a></p>
+</div>
+
 Python разработчик с опытом более года в разработке на Python и трёхлетним опытом работы в научных исследованиях.       
 Владею основными технологиями и инструментами для разработки, включая Django, DRF, Postman.
 Имею опыт работы с базами данных (PostgreSQL, MySQL, SQLite) и создания REST API для взаимодействия с ними. Знаком с принципами работы и настройки Linux-систем (Ubuntu, Bash), а также опыт работы с инструментами автоматизации (Docker, Git, Nginx).
@@ -22,8 +27,7 @@ Python разработчик с опытом более года в разра�
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://t.me/spasibo24" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"></a></p>
+
 
 
 
