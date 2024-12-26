@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a href="https://t.me/spasibo24" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32">
-</a></p>
+</a>
 </div>
 
 Python разработчик с опытом более года в разработке на Python и трёхлетним опытом работы в научных исследованиях.       
