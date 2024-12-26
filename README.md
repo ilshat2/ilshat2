@@ -39,9 +39,10 @@ Python разработчик с опытом более года в разра�
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilshat2&theme=github" width="561"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilshat2&theme=default" width="273"/><br>
-    <a href="http://www.github.com/ilshat2">
-        <img src="https://github-readme-stats.vercel.app/api?username=ilshat2&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="ilshat2's GitHub stats" />
-    </a>
+<a href="http://www.github.com/ilshat2">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilshat2&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=1f2937&icon_color=ffffff&bg_color=4b5563&hide_border=true&show_icons=true" alt="ilshat2's GitHub stats" />
+</a>
+
 </div>
 
 <div>
