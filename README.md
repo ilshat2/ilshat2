@@ -30,8 +30,10 @@ Python разработчик с опытом более года в разра�
 
 
 
-### Badges
+### :fire: GitHub Stats
 
-<b>My GitHub Stats</b>
-
+<div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" width="561"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github"  width="273"/>   <br>    
+</div>
 <a href="http://www.github.com/ilshat2"><img src="https://github-readme-stats.vercel.app/api?username=ilshat2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilshat2's GitHub stats" /></a>
