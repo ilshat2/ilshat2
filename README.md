@@ -44,3 +44,6 @@ Python разработчик с опытом более года в разра�
     </a>
 </div>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ilshat2"/>          
+</div>
