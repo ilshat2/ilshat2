@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
 ------------------------
 
-<div> ### :handshake: Social 
+### :handshake: Social 
 <a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://t.me/spasibo24" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32">
 </a>
-</div>
+
 
 Python разработчик с опытом более года в разработке на Python и трёхлетним опытом работы в научных исследованиях.       
 Владею основными технологиями и инструментами для разработки, включая Django, DRF, Postman.
