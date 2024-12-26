@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
 ------------------------
-### Socials
+### :handshake: Socials
 <div>
 
 <a href="https://www.linkedin.com/in/ilshat2/" target="_blank" rel="noreferrer"> 
@@ -26,7 +26,7 @@ Python разработчик с опытом более года в разра�
 
 
 
-### Skills
+### :hammer_and_wrench: Skills
 
 
 <p align="left">
