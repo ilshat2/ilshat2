@@ -24,7 +24,8 @@ Python разработчик с опытом более года в разра�
 * ✉️ Вы можете связаться со мной по ilshat26101993@list.ru
 
 ### :hammer_and_wrench: Skills
-<hr style="border: 0.5px solid #ccc;"/>
+<hr style="border: 0px; border-top: 0.5px solid #ccc;"/>
+
 
 <div>
 <p align="left">
