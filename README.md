@@ -1,5 +1,5 @@
-<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov </h1>
-<a Python backend developer > 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilshat Kushmanbetov
+<a> Python backend developer </a>
 ------------------------
 
 <div id="badges" align="center">
