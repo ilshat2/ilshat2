@@ -33,7 +33,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
         <li>✉️ Вы можете связаться со мной по <a href="mailto:ilshat26101993@list.ru">ilshat26101993@list.ru</a></li>
     </ul>
 </div>
-
+    
 
 ### :hammer_and_wrench: Skills
 <div>
