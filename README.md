@@ -34,10 +34,8 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
     </ul>
 </div>
 
----
 
 ### :hammer_and_wrench: Skills
-
 <div>
     <p align="left">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -64,10 +62,8 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
     </p>
 </div>
 
----
 
 ### :fire: GitHub Stats
-
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilshat2&theme=default" alt="Repositories per language" width="273">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilshat2&theme=github" alt="Profile Details" width="561">
