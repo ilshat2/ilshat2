@@ -15,7 +15,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
     <a href="https://t.me/spasibo24" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32">
     </a>
-    <br><br>
+    <br>  &nbsp; 
 </div>
 
 <div>
@@ -31,7 +31,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
     <ul>
         <li>🌍 Я живу в Москве</li>
         <li>✉️ Вы можете связаться со мной по <a href="mailto:ilshat26101993@list.ru">ilshat26101993@list.ru</a></li>
-    </ul>      <br>  &nbsp; 
+    </ul>
 </div>
     
 
