@@ -18,6 +18,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
     <br>  &nbsp; 
 </div>
 
+
 <div>
     <p>
         Python разработчик с опытом более года в разработке на Python и трёхлетним опытом работы в научных исследованиях.<br>
