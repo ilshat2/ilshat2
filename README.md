@@ -42,20 +42,20 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36">
         </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36">
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36">
-        </a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="36" height="36">
-        </a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="Django" width="36" height="36">
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36">
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36">
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36">
+        </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="36" height="36">
         </a>
         <a href="https://www.linux.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36">
